@@ -68,7 +68,7 @@ An interactive guessing program that identifies one of six mushrooms by asking u
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/aldoglory/Lab2.git
    ```
 
 2. Open the project folder.
